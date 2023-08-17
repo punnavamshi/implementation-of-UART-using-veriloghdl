@@ -1,1 +1,1 @@
-# implementation-of-UART-using-veriloghdl
+# implementation-of-Universal asynchronous receiver-transmitter-using-veriloghdl
